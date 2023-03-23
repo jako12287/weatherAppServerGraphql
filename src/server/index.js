@@ -25,7 +25,7 @@ const main = async () => {
     console.log(`🚀 Server ready at http://localhost:${PORT}`);
   } catch (error) {
     console.log(error);
-    console.log(`😮 something went wrong`);
+    console.log(`😮 something went wrong 😮 ==>`);
   }
 };
 main();
